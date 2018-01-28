@@ -17,15 +17,14 @@ const users = [
 
 const siteConfig = {
   title: 'Open Cooperative Ecosystem' /* title for your website */,
-  tagline: 'OCE Documentation website',
+  tagline: 'A collection of open-source apps that work together to provide an operational system for a community.',
   url: 'https://facebook.github.io' /* your website url */,
   baseUrl: '/test-site/' /* base url for your project */,
   projectName: 'test-site',
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
+    {doc: 'history', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {page: 'help', label: 'Help'}
   ],
   users,
   /* path to images for header/footer */
