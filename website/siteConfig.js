@@ -19,8 +19,9 @@ const siteConfig = {
   title: 'Open Cooperative Ecosystem' /* title for your website */,
   tagline: 'A collection of open-source apps that work together to provide an operational system for a community.',
   url: 'https://facebook.github.io' /* your website url */,
-  baseUrl: '/test-site/' /* base url for your project */,
-  projectName: 'test-site',
+  baseUrl: '/' /* base url for your project */,
+  organizationName: 'opencooperativeecosystem',
+  projectName: 'website',
   headerLinks: [
     {doc: 'history', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
@@ -49,7 +50,7 @@ const siteConfig = {
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/facebook/test-site',
+  repoUrl: 'https://github.com/opencooperativeecosystem/website',
 };
 
 module.exports = siteConfig;
