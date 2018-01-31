@@ -3,7 +3,7 @@ id: current_architecture
 title: Current architecture
 ---
 
-[Current Architecture](ocp-state.png)
+![Current Architecture]( website/Applications/ocp-state.png )
 
 ## Value Network \(original "OCP"\)
 
@@ -13,7 +13,7 @@ The Work App was created when NRP was forked to become OCP.  It has some of the 
 
 ## Odoo
 
-FairMarket was customized on top of Odoo.
+FairMarket was customized on top of Odoo.  There are no current integrations, but interoperability with OCP has been discussed.
 
 Freedom Coop Invoicing is in process now, customizing Odoo.  It uses the agents and membership from the Value Accounting app.
 
@@ -23,7 +23,7 @@ Kispagi is a new app for OCW group within FairCoop, and gets work data from the 
 
 ## Gitlab
 
-Gitlab is used for work data by some groups.
+Gitlab is used for managing work by some groups.
 
 ## Kanban \("New UI"\)
 
@@ -36,6 +36,3 @@ This is currently the same architecture as the Kanban.
 ## FairCoin Wallet
 
 ## Multicurrency Wallet
-
-
-
