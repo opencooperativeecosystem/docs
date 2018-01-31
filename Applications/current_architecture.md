@@ -5,7 +5,7 @@ title: Current architecture
 
 [Current Architecture](ocp-state.png)
 
-## Value Network (orininal "OCP")
+## Value Network \(original "OCP"\)
 
 In the diagram, the rectangles inside the yellow ValueNetwork box are django apps within one django project.  There are also some user related apps not shown. There is a graphql api in development that currently supports the "new UI" work and Kispagi.  Mostly this reflects the Value Accounting app.
 
@@ -25,7 +25,7 @@ Kispagi is a new app for OCW group within FairCoop, and gets work data from the 
 
 Gitlab is used for work data by some groups.
 
-## Kanban ("New UI")
+## Kanban \("New UI"\)
 
 The "new UI" is in process.  It is written in React, Apollo, and gets all of its data from the graphql api for the Value Accounting app.
 
@@ -36,4 +36,6 @@ This is currently the same architecture as the Kanban.
 ## FairCoin Wallet
 
 ## Multicurrency Wallet
+
+
 
