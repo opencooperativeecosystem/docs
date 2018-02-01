@@ -1,6 +1,6 @@
 ![](/assets/logooce.svg)
 
-It is a collection of different open-source software applications that work together to provide **an operational system for a community.          
+It is a collection of different open-source software applications that work together to provide **an operational system for a community.              
 **The goal is to provide a digital infrastucture that could fullfill any community needs, being at the same time highly modular and easy to change according to each specific community needs and decisions .  
 ![](/assets/ex.png)Inside an Open Cooperative Ecosystem any kind of events can be represented:
 
@@ -14,7 +14,8 @@ It is a collection of different open-source software applications that work toge
 * _accounting views for a network, organization, project, individual_
 
 The main point of an Open Cooperative Ecosystem is that _**everything is connected to everything else**_, thanks to its underlying syntax model: [**REA**](/Concepts/rea.md)**. **It can handle any economic relationships, value networks and ecological requirements.  
-![](/assets/eee.png)
+![](/assets/eee.png)The OCE project is not coded by a closed group of devs, but its an open organization. Everyone \(loone developers or organizations\) that agree to build software with some shared rules and protocols, to allow interoperability and data flows are welcome to join this adventure and work together.  
+Here you can read more about our code of conduct.
 
 ## Getting started
 
@@ -39,6 +40,4 @@ Join the [Welcome](https://t.me/ocewelcome) or the [Devs](https://t.me/joinchat/
 ## License
 
 [AGPL 3.0](https://www.gnu.org/licenses/agpl-3.0.html)
-
-
 
