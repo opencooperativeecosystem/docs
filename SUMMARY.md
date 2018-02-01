@@ -5,7 +5,7 @@
   * [History](introduction/history.md)
   * [Current state](Applications/current_architecture.md)
   * [Vision](introduction/vision.md)
-  * Roadmap
+  * [Roadmap](introduction/roadmap.md)
 * [Apps Ecosystem](apps-ecosystem.md)
   * [Application description](Applications/app_description.md)
   * [Current architecture](Applications/current_architecture.md)
