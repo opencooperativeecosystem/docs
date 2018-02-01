@@ -15,7 +15,7 @@
   * [Coding guidelines](Contribute/coding_guidelines.md)
   * [community](Contribute/community.md)
   * [Team workflow](Contribute/team_workflow.md)
-* [Concepts](concepts.md)
+* [Glossary](concepts.md)
   * [OCP](Concepts/ocp.md)
   * [OCW](Concepts/ocw.md)
   * [FreedomCoop](Concepts/freedomcoop.md)
