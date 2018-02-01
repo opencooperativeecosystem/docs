@@ -4,26 +4,38 @@ title: Resource Event Agent
 sidebar: REA
 ---
 
-Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
+# REA
 
-## Lorem
+REA is a simplified method of accounting that was initially developed by [Professor William McCarthy](https://www.msu.edu/~mccarth4/) of  Michigan State University in 1982, and since has been adopted and extended by a growing global [community.](http://reatechnology.com/rea-community.html)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
+As you can see from the community page, REA has been incorporated in ecommerce standards by the United Nations and ISO, the official international standards organization. People from Group Accounting contributed significantly to both of those standards.  
+REA's benefits for a new economic system include:
 
-## Mauris In Code
+* REA does not require any accounting knowledge \(for example, no debits and credits\), so it's easy to use. While Quick Books \(for example\) makes accounting pretty easy for some business functions, REA can do it for everything, including functions that Quick Books does not handle like inventory, production and distribution.
+* Unlike typical double-entry accounting which records economic events from the viewpoint of one company, REA can take a neutral view, which means it can be used for groups of all sizes and legal forms.  \(That's why we use it for Group Accounting.\)
+* REA's neutral view means it can scale up from single individuals to companies to groups of companies to regions to nations to the whole planet.
+* REA does not assume everything is exchanged for money in standard currencies:  it works for barter, sweat equity, and alternative currencies.
+* REA can account for "externalities" like air, water, soil, and other necessities of life that are ignored by "standard" accounting.
 
-```
-Mauris vestibulum ullamcorper nibh, ut semper purus pulvinar ut. Donec volutpat orci sit amet mauris malesuada, non pulvinar augue aliquam. Vestibulum ultricies at urna ut suscipit. Morbi iaculis, erat at imperdiet semper, ipsum nulla sodales erat, eget tincidunt justo dui quis justo. Pellentesque dictum bibendum diam at aliquet. Sed pulvinar, dolor quis finibus ornare, eros odio facilisis erat, eu rhoncus nunc dui sed ex. Nunc gravida dui massa, sed ornare arcu tincidunt sit amet. Maecenas efficitur sapien neque, a laoreet libero feugiat ut.
-```
+### **The ABC's of REA**
 
-## Nulla
+**Resources:** include products, services and money.
 
-Nulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.
+**Agents: ** include any person or organization who is responsible for some resources.
 
-## Orci
+**Events:** include exchanges of resources between agents, consumption of resources, and production of new resources.
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin venenatis lectus dui, vel ultrices ante bibendum hendrerit. Aenean egestas feugiat dui id hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur in tellus laoreet, eleifend nunc id, viverra leo. Proin vulputate non dolor vel vulputate. Curabitur pretium lobortis felis, sit amet finibus lorem suscipit ut. Sed non mollis risus. Duis sagittis, mi in euismod tincidunt, nunc mauris vestibulum urna, at euismod est elit quis erat. Phasellus accumsan vitae neque eu placerat. In elementum arcu nec tellus imperdiet, eget maximus nulla sodales. Curabitur eu sapien eget nisl sodales fermentum.
+REA records economic events exactly as they happened, with no interpretation \(unlike double-entry accounting, which requires an interpretation of what happened from the viewpoint of one of the agents involved in the event\).
 
-## Phasellus
+> For example, Farmer A traded 100 units of wheat to miller B on March 9, 2008 at 2pm UT for 100 units of bio diesel fuel, which Miller B got from digester D.
 
-Phasellus pulvinar ex id commodo imperdiet. Praesent odio nibh, sollicitudin sit amet faucibus id, placerat at metus. Donec vitae eros vitae tortor hendrerit finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae purus dolor. Duis suscipit ac nulla et finibus. Phasellus ac sem sed dui dictum gravida. Phasellus eleifend vestibulum facilisis. Integer pharetra nec enim vitae mattis. Duis auctor, lectus quis condimentum bibendum, nunc dolor aliquam massa, id bibendum orci velit quis magna. Ut volutpat nulla nunc, sed interdum magna condimentum non. Sed urna metus, scelerisque vitae consectetur a, feugiat quis magna. Donec dignissim ornare nisl, eget tempor risus malesuada quis.
+From the basic economic event records, REA software can automatically generate all of the standard financial reports, lots of other useful reports, and can even generate those double-entries automatically if somebody really really wants them.
+
+Also, because the basic event records in REA are naturally related, we can trace the flows of resources through a community \(for example, the bio diesel feedstock from one farmer to the digester, and then the biodiesel fuel through the miller to another farmer\).
+
+## Useful links
+
+http://www.jeffsutherland.org/oopsla2000/mccarthy/mccarthy.htm
+
+
+
