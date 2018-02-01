@@ -2,6 +2,7 @@
 
 * [Read me](README.md)
 * [Introduction](history.md)
+  * [Get started](introduction/get-started.md)
   * [History](introduction/history.md)
   * [Current state](Applications/current_architecture.md)
   * [Vision](introduction/vision.md)

@@ -1,6 +1,6 @@
 ![](/assets/logooce.svg)
 
-It is a collection of different open-source software applications that work together to provide **an operational system for a community.    
+It is a collection of different open-source software applications that work together to provide **an operational system for a community.        
 **The goal is to provide a digital infrastucture that could fullfill any community needs, being at the same time highly modular and easy to change according to each specific community needs and decisions .  
 ![](/assets/ex.png)Inside an Open Cooperative Ecosystem any kind of events can be represented:
 
@@ -18,7 +18,7 @@ The main point of an Open Cooperative Ecosystem is that _**everything is connect
 
 ## Getting started
 
-> In discussion
+You can follow the [instruction](/introduction/get-started.md) to create your own instance of the Open cooperative ecosystem, or register to the faircoop one, and join the faircoop network.
 
 ## Documentation
 
