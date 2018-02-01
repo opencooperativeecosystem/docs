@@ -1,6 +1,6 @@
 ![](/assets/logooce.svg)
 
-It is a collection of different open-source software applications that work together to provide **an operational system for a community.        
+It is a collection of different open-source software applications that work together to provide **an operational system for a community.          
 **The goal is to provide a digital infrastucture that could fullfill any community needs, being at the same time highly modular and easy to change according to each specific community needs and decisions .  
 ![](/assets/ex.png)Inside an Open Cooperative Ecosystem any kind of events can be represented:
 
@@ -38,7 +38,7 @@ Join the [Welcome](https://t.me/ocewelcome) or the [Devs](https://t.me/joinchat/
 
 ## License
 
-> In discussion
+[AGPL 3.0](https://www.gnu.org/licenses/agpl-3.0.html)
 
 
 
