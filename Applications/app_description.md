@@ -43,14 +43,6 @@ title: App Description
 * Description: This supports the method of income distribution specifically used by OCW (Open Coop Work).
 
 
-### Gitlab
-
-* Code:
-* Installation:
-
-* Description:  Gitlab is primarily used for software versioning and coordination, but is used here also for managing OCW work.
-
-
 ### Kanban \("New UI"\)
 
 * Code:
