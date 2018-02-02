@@ -16,7 +16,6 @@
   * Code of conduct
   * [Team workflow](Contribute/team_workflow.md)
 * [Glossary](concepts.md)
-  * [OCP](Concepts/ocp.md)
   * [OCW](Concepts/ocw.md)
   * [FreedomCoop](Concepts/freedomcoop.md)
   * [Bank of the Commons](Concepts/bank_of_the_commons.md)
