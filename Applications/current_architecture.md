@@ -3,7 +3,7 @@ id: current_architecture
 title: Current architecture
 ---
 
-![Current Architecture]( https://github.com/opencooperativeecosystem/website/blob/master/Applications/ocp-state.png )
+![Current Architecture](https://github.com/opencooperativeecosystem/website/blob/master/Applications/ocp-state.png )![](/Applications/ocp-state.png)
 
 ### Descriptions
 
@@ -38,3 +38,6 @@ This is currently the same architecture as the Kanban.
 #### FairCoin Wallet
 
 #### Multicurrency Wallet
+
+
+
