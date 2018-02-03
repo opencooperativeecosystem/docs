@@ -3,7 +3,7 @@ id: current_architecture
 title: Current architecture
 ---
 
-![Current Architecture](https://github.com/opencooperativeecosystem/website/blob/master/Applications/ocp-state.png )![](/Applications/ocp-state.png)
+![](/Applications/ocp-state.png)
 
 ### Descriptions
 
