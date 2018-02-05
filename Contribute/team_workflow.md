@@ -3,26 +3,35 @@ id: team_workflow
 title: Team workflow
 ---
 
-Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
+# Methodology & Open Participation
 
-## Lorem
+### 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
+### [📅](https://emojipedia.org/calendar/) Monthly assembly - Weekly scrum - Daily chat
 
-## Mauris In Code
+**Monthly assembly** are the way we report the work done during the current month and eventual issues and proposal. Also, its the occasion to have an alignment  with our user base, shaping together the roadmap.  
+**Weekly scrum **are more devs - oriented. During our weekly scrum we update each other about the status of our current works and we align ourself on each other situation.  
+**Daily chat **because we want to move forward faster and coordinate among different communities / ecosystem. Plus we usually like share ideas and discuss them.
 
-```
-Mauris vestibulum ullamcorper nibh, ut semper purus pulvinar ut. Donec volutpat orci sit amet mauris malesuada, non pulvinar augue aliquam. Vestibulum ultricies at urna ut suscipit. Morbi iaculis, erat at imperdiet semper, ipsum nulla sodales erat, eget tincidunt justo dui quis justo. Pellentesque dictum bibendum diam at aliquet. Sed pulvinar, dolor quis finibus ornare, eros odio facilisis erat, eu rhoncus nunc dui sed ex. Nunc gravida dui massa, sed ornare arcu tincidunt sit amet. Maecenas efficitur sapien neque, a laoreet libero feugiat ut.
-```
+### [🐶](https://emojipedia.org/dog-face/) Eat our own food
 
-## Nulla
+Use the tools we build: eg. Kanban is near to an MVP. We can finish it and use it to log the work we did on OCE, in this way we can test it and improve it and better understand what features could be prioritarian to develop, together with FairCoop feedbacks and needs.
 
-Nulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.
+### 🌐 Open Participation & Transparency
 
-## Orci
+We need to ensure open participation and transparency through all aspects of the project.  
+Open participation means that all members have the right to access to all information needed to correctly inform themselves and partecipate in they way they can, _**This is intended to be a proactive action, not a passive privilege. **_
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin venenatis lectus dui, vel ultrices ante bibendum hendrerit. Aenean egestas feugiat dui id hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur in tellus laoreet, eleifend nunc id, viverra leo. Proin vulputate non dolor vel vulputate. Curabitur pretium lobortis felis, sit amet finibus lorem suscipit ut. Sed non mollis risus. Duis sagittis, mi in euismod tincidunt, nunc mauris vestibulum urna, at euismod est elit quis erat. Phasellus accumsan vitae neque eu placerat. In elementum arcu nec tellus imperdiet, eget maximus nulla sodales. Curabitur eu sapien eget nisl sodales fermentum.
+How to ensure open participation:
 
-## Phasellus
+* _Define monthly processes through assembly_
+* _Setup processes in OCE organization and allow each member to commit and log work_
+* _Create a Monthly report in which are reported:_
+  * _Monthly processes defined_
+  * _Hours spent by everyone_
+  * _Commitments made by everyone_
+  * _Processes closed_
+  * _Processes unfinished_
 
-Phasellus pulvinar ex id commodo imperdiet. Praesent odio nibh, sollicitudin sit amet faucibus id, placerat at metus. Donec vitae eros vitae tortor hendrerit finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae purus dolor. Duis suscipit ac nulla et finibus. Phasellus ac sem sed dui dictum gravida. Phasellus eleifend vestibulum facilisis. Integer pharetra nec enim vitae mattis. Duis auctor, lectus quis condimentum bibendum, nunc dolor aliquam massa, id bibendum orci velit quis magna. Ut volutpat nulla nunc, sed interdum magna condimentum non. Sed urna metus, scelerisque vitae consectetur a, feugiat quis magna. Donec dignissim ornare nisl, eget tempor risus malesuada quis.
+
+

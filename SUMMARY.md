@@ -12,9 +12,9 @@
   * [How to create a new app](Applications/how_to_create_a_new_app.md)
 * [Contribute](contribute.md)
   * [Coding guidelines](Contribute/coding_guidelines.md)
-  * [community](Contribute/community.md)
+  * [Community](Contribute/community.md)
   * Code of conduct
-  * [Team workflow](Contribute/team_workflow.md)
+  * [Workflow](Contribute/team_workflow.md)
 * [Glossary](concepts.md)
   * [OCW](Concepts/ocw.md)
   * [FreedomCoop](Concepts/freedomcoop.md)
