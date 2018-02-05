@@ -13,7 +13,6 @@
 * [Contribute](contribute.md)
   * [Coding guidelines](Contribute/coding_guidelines.md)
   * [Community](Contribute/community.md)
-  * Code of conduct
   * [Workflow](Contribute/team_workflow.md)
 * [Glossary](concepts.md)
   * [OCW](Concepts/ocw.md)
