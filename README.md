@@ -1,6 +1,6 @@
 ![](/assets/logooce.svg)
 
-It is a collection of different open-source software applications that work together to provide **an operational system for a community.              
+It is a collection of different open-source software applications that work together to provide **an operational system for a community.                
 **The goal is to provide a digital infrastucture that could fullfill any community needs, being at the same time highly modular and easy to change according to each specific community needs and decisions .  
 ![](/assets/ex.png)Inside an Open Cooperative Ecosystem any kind of events can be represented:
 
@@ -33,9 +33,9 @@ You can follow the [instruction](/introduction/get-started.md) to create your ow
 
 Join the [Welcome](https://t.me/ocewelcome) or the [Devs](https://t.me/joinchat/Bdq2d0yDFbjRbE2VPKqgrA) telegram group.
 
-## Support
+## Donation
 
-> In discussion
+We accept donation in faircoin: ** fNwjJzntaQ8P95mappWQkEiSVrtDqDzj4X**
 
 ## License
 
