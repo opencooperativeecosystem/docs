@@ -64,13 +64,11 @@ This app allow people to signup into the ecosystem and manage her/his own data. 
 
 | Code | Production Installation | Test Installation |
 | :--- | :--- | :--- |
-| [Github](https://github.com/opencooperativeecosystem/membership) | WIP | WIP |
+| [Github](https://github.com/opencooperativeecosystem/membership) ( now working on previous ocp ) | WIP | WIP |
 
 ### 
 
 ### MultiWallet App
-
-This app allow agents to validate each other works \(or any kind of event\). Can be usefull to unlock the distribution income inside a community. It is one of the governance apps. Actually the validation client app is implemented accordingly the OCW \(open coop work\) political validation protocol, but the goal is to implement several validation app, each of them that follow community specific work validation protocol.
 
 | Code | Production Installation | Test Installation |
 | :--- | :--- | :--- |
@@ -81,18 +79,14 @@ This app allow agents to validate each other works \(or any kind of event\). Can
 
 ### Planning App
 
-This app allow agents to validate each other works \(or any kind of event\). Can be usefull to unlock the distribution income inside a community. It is one of the governance apps. Actually the validation client app is implemented accordingly the OCW \(open coop work\) political validation protocol, but the goal is to implement several validation app, each of them that follow community specific work validation protocol.
-
 | Code | Production Installation | Test Installation |
 | :--- | :--- | :--- |
-| WIP | WIP | WIP |
+| WIP ( now working on previous ocp ) | WIP | WIP |
 
 
 ### 
 
 ### Exchange App
-
-This app allow agents to validate each other works \(or any kind of event\). Can be usefull to unlock the distribution income inside a community. It is one of the governance apps. Actually the validation client app is implemented accordingly the OCW \(open coop work\) political validation protocol, but the goal is to implement several validation app, each of them that follow community specific work validation protocol.
 
 | Code | Production Installation | Test Installation |
 | :--- | :--- | :--- |
@@ -102,8 +96,6 @@ This app allow agents to validate each other works \(or any kind of event\). Can
 ### 
 
 ### Component Library
-
-This supports work coordination for OCW. It is currently implemented as a new user interface for OCP/ValueNetwork, but is designed to be able to use other backends.
 
 | Code | Production Installation | Test Installation |
 | :--- | :--- | :--- |

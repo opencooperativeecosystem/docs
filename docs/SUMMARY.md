@@ -4,6 +4,7 @@
 * [Introduction](history.md)
     * [Get started](introduction/get-started.md)
     * [History](introduction/history.md)
+    * [Assemblies](introduction/assemblies.md)
     * [Vision](introduction/vision.md)
     * [Roadmap](introduction/roadmap.md)
 * [Apps Ecosystem](apps-ecosystem.md)
