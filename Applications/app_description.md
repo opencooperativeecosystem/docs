@@ -3,7 +3,7 @@ id: app_description
 title: App Description
 ---
 
-# OCE applications 
+# OCE applications
 
 ### Value Network \(original "OCP"\)
 
@@ -46,11 +46,9 @@ This app allow agents to validate each other works \(or any kind of event\). Can
 | :--- | :--- | :--- |
 | [Github](https://github.com/opencooperativeecosystem/validate) | [agent.fair.coop](https://agent.fair.coop) | [test.economicecosystem.network](https://test.economicecosystem.network) |
 
-
-
 ### Coopshares
 
-This app allow agents to validate each other works \(or any kind of event\). Can be usefull to unlock the distribution income inside a community. It is one of the governance apps. Actually the validation client app is implemented accordingly the OCW \(open coop work\) political validation protocol, but the goal is to implement several validation app, each of them that follow community specific work validation protocol.
+One of the greatest problems faced by cooperatives, social enterprises and peer to peer production projects is the lack of access to sufficient funding and investors. CoopShares was ideated In response to this challenge, for building \(out\) the broader based services required in the fast growing social and individual sovereignty based Commons ecosphere now enabled by recent evolution of Commons principles. Besides funding its own growth via crowdfunded equity solutions and offering investors funding options via CoopShares, Coopshares will be a platform of services for CoopShares social equity funding and trading.
 
 | Code | Production Installation | Test installation |
 | :--- | :--- | :--- |
