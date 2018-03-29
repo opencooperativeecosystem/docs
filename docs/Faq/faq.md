@@ -1,7 +1,6 @@
 ---
-id: ocp
-title: Open Collaborative Platform
-sidebar: OCP
+id: faq
+title: FAQ
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
