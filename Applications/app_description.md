@@ -5,57 +5,56 @@ title: App Description
 
 ### Value Network \(original "OCP"\)
 
-* Code: [https://github.com/FreedomCoop/valuenetwork](https://github.com/FreedomCoop/valuenetwork)
+This is an Enterprise Resource Planning \(ERP\) system designed from the bottom up for networks rather than enterprises.  It supports flexible organizational structures, production and supply chain \(recipes, planning, coordinating work\), any type of exchange both inside and outside the network, distribution of income based on contributions.  It is highly configurable \(this has both advantages and disadvantages\).
 
-* Installation: [https://ocp.freedomcoop.eu/](https://ocp.freedomcoop.eu/)
+| Code | Production Installation | Test Installation |
+| :--- | :--- | :--- |
+| [Github](https://github.com/FreedomCoop/valuenetwork) | [ocp.freedomcoop.eu](https://ocp.freedomcoop.eu) | [testocp.freedomcoop.eu](https://testocp.freedomcoop.eu) |
 
-* Test installation: [https://testocp.freedomcoop.eu/](https://testocp.freedomcoop.eu/)
+**More links**
 
-* Description: This is an Enterprise Resource Planning \(ERP\) system designed from the bottom up for networks rather than enterprises.  It supports flexible organizational structures, production and supply chain \(recipes, planning, coordinating work\), any type of exchange both inside and outside the network, distribution of income based on contributions.  It is highly configurable \(this has both advantages and disadvantages\).
+* [https://github.com/FreedomCoop/valuenetwork/wiki](https://github.com/FreedomCoop/valuenetwork/wiki)
+* [https://speakerdeck.com/mikorizal](https://speakerdeck.com/mikorizal) \(Everything called NRP here is documentation of the NRP app from which OCP was forked.\)
 
-* More links:
 
-  * [https://github.com/FreedomCoop/valuenetwork/wiki](https://github.com/FreedomCoop/valuenetwork/wiki)
-  * [https://speakerdeck.com/mikorizal](https://speakerdeck.com/mikorizal) \(Everything called NRP here is documentation of the NRP app from which OCP was forked.\)
 
-### FairMarket
+### Integral Dashboard
 
-* Code:
-* Installation:
+This supports people having an individual application that summarizes their accounts, work, memberships, etc. - one place to see everything economic that relates to them and a jumping off point to other apps with more detail.
 
-* Description:
+| Code | Production Installation | Test Installation |
+| :--- | :--- | :--- |
+| [Github](https://github.com/opencooperativeecosystem/dashboard) | [agent.fair.coop](https://agent.fair.coop) | [test.economicecosystem.network](https://test.economicecosystem.network) |
 
-### Freedom Coop Invoicing
 
-* Code:
-* Installation:
-* Test installation:
 
-* Description:  This supports the invoicing process specifically used for Freedom Coop.
+### Collaborate App
 
-### Kispagi
+This app works as a kanban for resource flow planning. It can be used to track production of means, creating manufacturing supply chains and any kind of event. Currently it is used by faircoop open work cooperative to log monthly work. 
 
-* Code:
-* Installation:
-* Test installation:
+| Code | Production Installation | Test Installation |
+| :--- | :--- | :--- |
+| [Github](https://github.com/opencooperativeecosystem/collaborate) | [agent.fair.coop](https://agent.fair.coop) | [test.economicecosystem.network](https://test.economicecosystem.network) |
 
-* Description: This supports the method of income distribution specifically used by OCW \(Open Coop Work\).
+### 
+
+### Validate App
+
+This app allow agents to validate each other works \(or any kind of event\). Can be usefull to unlock the distribution income inside a community. It is one of the governance apps. Actually the validation client app is implemented accordingly the OCW \(open coop work\) political validation protocol, but the goal is to implement several validation app, each of them that follow community specific work validation protocol.
+
+| Code | Production Installation | Test installation |
+| :--- | :--- | :--- |
+| [Github](https://github.com/opencooperativeecosystem/validate) | [agent.fair.coop](https://agent.fair.coop) | [test.economicecosystem.network](https://test.economicecosystem.network) |
+
+### 
 
 ### Component Library
 
-* Code: https://github.com/opencooperativeecosystem/component-library
+* Code: [https://github.com/opencooperativeecosystem/component-library](https://github.com/opencooperativeecosystem/component-library)
 * Installation:
 * Test installation:
 
 * Description: This supports work coordination for OCW. It is currently implemented as a new user interface for OCP/ValueNetwork, but is designed to be able to use other backends.
-
-### Integral Dashboard
-
-* Code:
-* Installation:
-* Test installation:
-
-* Description: This supports people having an individual application that summarizes their accounts, work, memberships, etc. - one place to see everything economic that relates to them and a jumping off point to other apps with more detail.
 
 ### FairCoin Wallet
 
