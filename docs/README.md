@@ -19,8 +19,10 @@ In the past several years, we have worked with several food networks, and http:/
 * _distributing income according to contributions using "value equation" decided by contributors_
 * _accounting views for a network, organization, project, individual_
 
-The main point of an Open Cooperative Ecosystem is that _**everything is connected to everything else**_, thanks to its underlying syntax model: [**REA**](/Concepts/rea.md)**. **It can handle any economic relationships, value networks and ecological requirements.  
-![](/assets/eee.png)We are developing software for transitioning to the next economy. Not this economy, the next economy.The next economy must be driven by human and ecological needs rather than profit. And it will be networked.  
+The main point of an Open Cooperative Ecosystem is that _**everything is connected to everything else**_, thanks to its underlying syntax model: [**REA**](/Concepts/rea.md)**. **It can handle any economic relationships, value networks, distribution of value and ecological requirements.  
+![](/assets/graph.jpg)
+
+We are developing software for transitioning to the next economy. Not this economy, the next economy.The next economy must be driven by human and ecological needs rather than profit. And it will be networked.  
  The Open Apps Cooperative Ecosystem team is an open non­hierarchical group. Our governance is based on open assemblies and consensus decisions.  
  Since our main focus is ecosystem interoperability and interconnections, we welcome any kind of diversity and experiments that can bring values to the ecosystem and can test the boundaries of our protocols and tools.
 
