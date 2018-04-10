@@ -1,4 +1,4 @@
-## Getting Started
+# Get started
 
 There are opportunities to work on:
 

@@ -13,5 +13,5 @@ Legally, it is based on the networking process of existing cooperative structure
 
 ## Useful Resources
 
-https://bankofthecommons.coop
+[https://bankofthecommons.coop](https://bankofthecommons.coop)
 

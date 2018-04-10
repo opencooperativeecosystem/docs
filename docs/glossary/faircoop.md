@@ -11,5 +11,3 @@ FairCoop mission is to create an innovative glocal economic system from the bott
 
 [https://fair.coop/](https://fair.coop/)
 
-
-

@@ -6,7 +6,7 @@ sidebar: REA
 
 # REA
 
-REA is a simplified method of accounting that was initially developed by [Professor William McCarthy](https://www.msu.edu/~mccarth4/) of  Michigan State University in 1982, and since has been adopted and extended by a growing global [community.](http://reatechnology.com/rea-community.html)
+REA is a simplified method of accounting that was initially developed by [Professor William McCarthy](https://www.msu.edu/~mccarth4/) of Michigan State University in 1982, and since has been adopted and extended by a growing global [community.](http://reatechnology.com/rea-community.html)
 
 As you can see from the community page, REA has been incorporated in ecommerce standards by the United Nations and ISO, the official international standards organization. People from Group Accounting contributed significantly to both of those standards.  
 REA's benefits for a new economic system include:
@@ -35,7 +35,5 @@ Also, because the basic event records in REA are naturally related, we can trace
 
 ## Useful links
 
-http://www.jeffsutherland.org/oopsla2000/mccarthy/mccarthy.htm
-
-
+[http://www.jeffsutherland.org/oopsla2000/mccarthy/mccarthy.htm](http://www.jeffsutherland.org/oopsla2000/mccarthy/mccarthy.htm)
 
