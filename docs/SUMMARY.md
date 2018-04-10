@@ -12,6 +12,7 @@
   * [Current architecture](apps-ecosystem/current-architecture.md)
 * [Contribute](contribute/README.md)
   * [Workflow](contribute/workflow.md)
+  * [Requirements](contribute/requirements.md)
 * [Glossary](glossary/README.md)
   * [OCW](glossary/ocw.md)
   * [FreedomCoop](glossary/freedomcoop.md)
