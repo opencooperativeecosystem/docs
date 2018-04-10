@@ -5,9 +5,9 @@ title: Current architecture
 
 # Current architecture
 
-![](https://github.com/open-cooperative-ecosystem/docs/tree/bd8b2402f315f37cd3fd434075da9ddd8d3f7190/Applications/currentArchitecture.png)
+![Current OCE architecture](../.gitbook/assets/currentarchitecture.png)
 
-## Descriptions
+## Description
 
 In the diagram, the rectangles inside the yellow ValueNetwork box are django apps within one django project. Mostly this reflects the Value Accounting app.
 
