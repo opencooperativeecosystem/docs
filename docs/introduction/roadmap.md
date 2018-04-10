@@ -6,7 +6,8 @@ description: From 2018 to 2019
 
 ### 2018 Goal
 
-Create the foundation and  modules needed to allow communities to manage basic economic activities inside an ecosystem \(digital or territorial\). To reach this goal we need to release a robust valueflow API to allow new modules to interact easily with ecosystem data.During the 2018 we will also work on docs / guide to produce a clear and complete documentation.  
+Create the foundation and  modules needed to allow communities to manage basic economic activities inside an ecosystem \(digital or territorial\). To reach this goal we need to release a robust valueflow API to allow new modules to interact easily with ecosystem data.  
+During the 2018 we will also work on docs / guide to produce a clear and complete documentation.  
 
 
 ### 1st Quarter 2018
@@ -16,7 +17,9 @@ Create the foundation and  modules needed to allow communities to manage basic e
 * Deploy Validate App \( [https://github.com/opencoopecosystem/validate](https://github.com/opencoopecosystem/validate) \)
 * Empower OCP GraphQl layer \( [https://github.com/FreedomCoop/valuenetwork/](https://github.com/FreedomCoop/valuenetwork/) \)
 * Start Coopshares \( [https://github.com/bankofthecommons/coopshares](https://github.com/bankofthecommons/coopshares) \)
-* Start Global Taxonomy / SkillsStart offers/needs app Start multiwallet
+* Start Global Taxonomy / Skills
+* Start offers/needs app 
+* Start multi-wallet
 * Start planning app from recipe
 
 ### 2nd Quarter 2018
@@ -26,7 +29,8 @@ Create the foundation and  modules needed to allow communities to manage basic e
 * Start membership app discussion
 * Work on offers/needs interconnected apps
 * Deploy beta of multiwallet \(based on santi new implementation and freecoin\)
-* Deploy planning app from recipeImplement FairLogin 
+* Deploy planning app from recipe
+* Implement FairLogin 
 
 ### 3rd Quarter 2018
 
