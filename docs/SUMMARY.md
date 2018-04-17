@@ -10,6 +10,7 @@
 * [Apps Ecosystem](apps-ecosystem/README.md)
   * [Application description](apps-ecosystem/application-description.md)
   * [Current architecture](apps-ecosystem/current-architecture.md)
+  * [Message schemas](apps-ecosystem/message-schemas.md)
 * [Contribute](contribute/README.md)
   * [Workflow](contribute/workflow.md)
   * [Requirements](contribute/requirements.md)
