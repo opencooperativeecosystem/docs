@@ -21,7 +21,7 @@ REA's benefits for a new economic system include:
 
 **Resources:** include products, services and money.
 
-**Agents: ** include any person or organization who is responsible for some resources.
+**Agents:**  include any person or organization who is responsible for some resources.
 
 **Events:** include exchanges of resources between agents, consumption of resources, and production of new resources.
 

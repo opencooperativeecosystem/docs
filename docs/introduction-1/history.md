@@ -10,14 +10,14 @@ sidebar_label: History
 
 Much work has been done on the OVN protocol and related specifications by many contributors too numerous to list here. An extremely brief history goes as follows- follow the links to learn more about the theory and concepts behind OVNs.
 
-* **Early 1980s**: Bill McCarthy first defines _Resource-Event-Agent _ \(REA\) model for accounting systems and [publishes many papers](https://msu.edu/~mccarth4/) on the topic.
-* **Mid 1990s**: Bob Haugen commercially develops _'Quick Response Engine' _ & becomes interested in supply chain systems.
+* **Early 1980s**: Bill McCarthy first defines _Resource-Event-Agent_  \(REA\) model for accounting systems and [publishes many papers](https://msu.edu/~mccarth4/) on the topic.
+* **Mid 1990s**: Bob Haugen commercially develops _'Quick Response Engine'_  & becomes interested in supply chain systems.
 * **1995-2000**: Bob discovers REA, he and Bill [further develop REA](http://www.jeffsutherland.org/oopsla2000/mccarthy/mccarthy.htm) as a semantic model for internet supply chain collaboration.
-* **2000**: Verna Allee [coins the term](http://www.sveiby.com/articles/Allee-ValueNets.htm) _"Value Network" _  to describe and model tangible & intangible economic value within organisations.
+* **2000**: Verna Allee [coins the term](http://www.sveiby.com/articles/Allee-ValueNets.htm) _"Value Network"_   to describe and model tangible & intangible economic value within organisations.
 * **2002**: ISO [adopts](https://www.iso.org/standard/67199.html) REA as their economic and accounting ontology.
 * **2005**: Bob [begins to write](http://mikorizal.org/BeyondTheEnterprise.html) about the importance of expanding REA to cover ad-hoc networks of external economic entities.
 * **2005-2011**: Bob works closely with Lynn Foster under the name 'Mikorizal Software' on [several open supply chain projects](http://mikorizal.org/groups.html); targeting timber, food networks & fishing industries.
-* **2012**: Open hardware manufacturer Sensorica gets involved with REA and coins the term _"Open Value Network" _ \(OVN\). They develop the _Network Resource Planning _ \(NRP\) [software](http://nrp.sensorica.co/) in collaboration with Bob & Lynn. This is the first iteration of the software on which django-rea and its forks are based.
+* **2012**: Open hardware manufacturer Sensorica gets involved with REA and coins the term _"Open Value Network"_  \(OVN\). They develop the _Network Resource Planning_  \(NRP\) [software](http://nrp.sensorica.co/) in collaboration with Bob & Lynn. This is the first iteration of the software on which django-rea and its forks are based.
   * [NRP system architecture presentation](https://speakerdeck.com/mikorizal/how-everything-is-connected-in-nrp) **\(mandatory reading!\)**
   * [Value equations explainer](https://speakerdeck.com/mikorizal/10-nrp-value-equation-concepts-and-tutorial)
 * **2013** - Joshua Vial of Enspiral proposes an [Open App Ecosystem](https://github.com/open-app/core). Mikey Williams proposes a common method of 

@@ -4,9 +4,7 @@ description: A gentle introduction inside the ecosystem
 
 # Read me
 
-![](.gitbook/assets/logooce.png)
-
-The Open Apps Cooperative Ecosystem is an open networked organization that works toward creating and assembling economic and organizational software for use by groups working for systemic change on the ground. Our work is toward a collection of small open­source software applications that interoperate using standard vocabularies and protocols, to provide operational and analytical infrastructure, something similar to an operational system for a community.
+The **Open Cooperative Ecosystem** is an open networked organization that works toward creating and assembling economic and organizational software for use by groups working for systemic change on the ground. Our work is toward a collection of small open­source software applications that interoperate using standard vocabularies and protocols, to provide operational and analytical infrastructure, something similar to an operational system for a community.
 
 Groups seeking change have many difficulties obtaining useful software. Our goal is to have freely­ available, modular, pluggable, and well ­documented applications, that can be assembled to meet a community's needs. This will allow future developers to create new open­ source applications for a group's specific needs or as technology advances, in their choice of languages, and plug them in relatively seamlessly. It will also allow existing software apps to create the linkage to be able to plug into the software ecosystem.
 
@@ -62,7 +60,7 @@ Join the [Welcome](https://t.me/ocewelcome) or the [Devs](https://t.me/joinchat/
 
 ## Donation
 
-We accept donation in faircoin: ** fNwjJzntaQ8P95mappWQkEiSVrtDqDzj4X**
+We accept donation in faircoin:  **fNwjJzntaQ8P95mappWQkEiSVrtDqDzj4X**
 
 ## License
 
