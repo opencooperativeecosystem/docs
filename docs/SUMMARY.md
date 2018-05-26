@@ -29,3 +29,9 @@
 * [Bank of the Commons](glossary-1/bank-of-the-commons.md)
 * [FreedomCoop](glossary-1/freedomcoop.md)
 
+## Vocabulary
+
+* [Introduction](vocabulary/introduction.md)
+* [Specific properties](vocabulary/specific-properties.md)
+* [Agent](vocabulary/agent.md)
+
