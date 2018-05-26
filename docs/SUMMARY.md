@@ -35,4 +35,5 @@
 * [Specific properties](vocabulary/specific-properties.md)
 * [Agent](vocabulary/agent.md)
 * [Economic Event](vocabulary/economic-event.md)
+* Validate
 
