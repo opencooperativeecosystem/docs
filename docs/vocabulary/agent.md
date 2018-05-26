@@ -1,12 +1,14 @@
+---
+description: Description of basic agent data structures
+---
+
 # Agent
 
-## Agent
+### Agent
 
-#### Agent
-
-{% tabs %} {% tab title="Schema" %}
-
-```text
+{% tabs %}
+{% tab title="Schema" %}
+```javascript
 {
   type: "Agent",
   id: String!,
@@ -17,12 +19,10 @@
   note: String
 }
 ```
-
 {% endtab %}
 
 {% tab title="Example" %}
-
-```text
+```javascript
 {
   type: "Agent",
   id: "503",
@@ -31,19 +31,20 @@
   image: "https://picsum.photos/200/300"
 }
 ```
-
-{% endtab %} {% endtabs %}
+{% endtab %}
+{% endtabs %}
 
 **Notes**  
- _Classification_ is "Person" or "Organization".  
- _Also might want at some point_  
- user-defined relationships with other agents \(such as membership, sub-groups, etc\)
+_Classification_ is "Person" or "Organization".  
+_Also might want at some point_  
+user-defined relationships with other agents \(such as membership, sub-groups, etc\)  
 
-#### AgentRelationship
 
-{% tabs %} {% tab title="Schema" %}
+### AgentRelationship
 
-```text
+{% tabs %}
+{% tab title="Schema" %}
+```javascript
 {
   type: 'AgentRelationship',
   subject: Agent!,
@@ -51,12 +52,10 @@
   relationship: AgentRelationshipRole!    
 }
 ```
-
 {% endtab %}
 
 {% tab title="Example" %}
-
-```text
+```javascript
 {
   type: 'AgentRelationship',
   subject: Agent!,
@@ -64,32 +63,30 @@
   relationship: AgentRelationshipRole!    
 }
 ```
+{% endtab %}
+{% endtabs %}
 
-{% endtab %} {% endtabs %}
+### AgentRelationshipRole
 
-#### AgentRelationshipRole
-
-{% tabs %} {% tab title="Schema" %}
-
-```text
+{% tabs %}
+{% tab title="Schema" %}
+```javascript
 {
   type: 'AgentRelationshipRole',
   label: String!,
   reverseLabel: String!
 }
 ```
-
 {% endtab %}
 
 {% tab title="Example" %}
-
-```text
+```javascript
 {
   type: 'AgentRelationshipRole',
   label: String!,
   reverseLabel: String!
 }
 ```
-
-{% endtab %} {% endtabs %}
+{% endtab %}
+{% endtabs %}
 
