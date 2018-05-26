@@ -4,34 +4,35 @@
 
 ## Introduction
 
-* [Get started](introduction-1/get-started.md)
-* [History](introduction-1/history.md)
-* [Workflow](introduction-1/workflow.md)
-* [Vision](introduction-1/vision.md)
-* [Roadmap](introduction-1/roadmap.md)
+* [Get started](introduction/get-started.md)
+* [History](introduction/history.md)
+* [Workflow](introduction/workflow.md)
+* [Vision](introduction/vision.md)
+* [Roadmap](introduction/roadmap.md)
 
 ## Apps ecosystem
 
-* [Application description](apps-ecosystem-1/application-description.md)
-* [Current architecture](apps-ecosystem-1/current-architecture.md)
+* [Application description](apps-ecosystem/application-description.md)
+* [Current architecture](apps-ecosystem/current-architecture.md)
 
 ## Contribute
 
-* [Requirements](contribute-1/requirements.md)
-* [Donations](contribute-1/donations.md)
+* [Requirements](contribute/requirements.md)
+* [Donations](contribute/donations.md)
 
 ## Glossary
 
-* [OCW](glossary-1/ocw.md)
-* [REA](glossary-1/rea.md)
-* [Valueflows](glossary-1/valueflows.md)
-* [FairCoop](glossary-1/faircoop.md)
-* [Bank of the Commons](glossary-1/bank-of-the-commons.md)
-* [FreedomCoop](glossary-1/freedomcoop.md)
+* [OCW](glossary/ocw.md)
+* [REA](glossary/rea.md)
+* [Valueflows](glossary/valueflows.md)
+* [FairCoop](glossary/faircoop.md)
+* [Bank of the Commons](glossary/bank-of-the-commons.md)
+* [FreedomCoop](glossary/freedomcoop.md)
 
 ## Vocabulary
 
 * [Introduction](vocabulary/introduction.md)
 * [Specific properties](vocabulary/specific-properties.md)
 * [Agent](vocabulary/agent.md)
+* [Economic Event](vocabulary/economic-event.md)
 

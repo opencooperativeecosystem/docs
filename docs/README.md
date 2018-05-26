@@ -1,7 +1,3 @@
----
-description: A gentle introduction inside the ecosystem
----
-
 # Read me
 
 The **Open Cooperative Ecosystem** is an open networked organization that works toward creating and assembling economic and organizational software for use by groups working for systemic change on the ground. Our work is toward a collection of small open­source software applications that interoperate using standard vocabularies and protocols, to provide operational and analytical infrastructure, something similar to an operational system for a community.

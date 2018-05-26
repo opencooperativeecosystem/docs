@@ -1,7 +1,3 @@
----
-description: From 2018 to 2019
----
-
 # Roadmap
 
 ### 2018 Goal

@@ -1,9 +1,3 @@
----
-description: >-
-  The following proposal is made to estabilish a set of shared rules to better
-  define which app / person / organization can be part of OCE
----
-
 # Requirements
 
 ### Shared goals

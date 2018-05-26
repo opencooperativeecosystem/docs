@@ -4,7 +4,7 @@ description: Description of basic agent data structures
 
 # Agent
 
-### Agent
+## Agent
 
 {% tabs %}
 {% tab title="Schema" %}
@@ -37,10 +37,9 @@ description: Description of basic agent data structures
 **Notes**  
 _Classification_ is "Person" or "Organization".  
 _Also might want at some point_  
-user-defined relationships with other agents \(such as membership, sub-groups, etc\)  
+user-defined relationships with other agents \(such as membership, sub-groups, etc\)
 
-
-### AgentRelationship
+## AgentRelationship
 
 {% tabs %}
 {% tab title="Schema" %}
@@ -66,7 +65,7 @@ user-defined relationships with other agents \(such as membership, sub-groups, e
 {% endtab %}
 {% endtabs %}
 
-### AgentRelationshipRole
+## AgentRelationshipRole
 
 {% tabs %}
 {% tab title="Schema" %}
