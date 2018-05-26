@@ -36,4 +36,5 @@
 * [Agent](vocabulary/agent.md)
 * [Economic Event](vocabulary/economic-event.md)
 * Validate
+* Plan
 
