@@ -1,4 +1,4 @@
-# Economic Event
+# Economic Eventt
 
 **Economic Event**  
 EconomicEvent is the minimum needed for recording work and distribution.  EconomicEvent and Agent, plus the taxonomy, would be enough to provide a lot of the information needed for stats and accounting, if every app could provide just those.
