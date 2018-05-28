@@ -26,22 +26,6 @@ This supports people having an individual application that summarizes their acco
 | :--- | :--- | :--- |
 | [Github](https://github.com/opencooperativeecosystem/dashboard) | [agent.fair.coop](https://agent.fair.coop) | [test.economicecosystem.network](https://test.economicecosystem.network) |
 
-## Collaborate App
-
-This app works as a kanban for resource flow planning. It can be used to track production of means, creating manufacturing supply chains and any kind of event. Currently it is used by faircoop open work cooperative to log monthly work.
-
-| Code | Production Installation | Test Installation |
-| :--- | :--- | :--- |
-| [Github](https://github.com/opencooperativeecosystem/collaborate) | [agent.fair.coop](https://agent.fair.coop) | [test.economicecosystem.network](https://test.economicecosystem.network) |
-
-## Validate App
-
-This app allow agents to validate each other works \(or any kind of event\). Can be usefull to unlock the distribution income inside a community. It is one of the governance apps. Actually the validation client app is implemented accordingly the OCW \(open coop work\) political validation protocol, but the goal is to implement several validation app, each of them that follow community specific work validation protocol.
-
-| Code | Production Installation | Test installation |
-| :--- | :--- | :--- |
-| [Github](https://github.com/opencooperativeecosystem/validate) | [agent.fair.coop](https://agent.fair.coop) | [test.economicecosystem.network](https://test.economicecosystem.network) |
-
 ## Coopshares
 
 One of the greatest problems faced by cooperatives, social enterprises and peer to peer production projects is the lack of access to sufficient funding and investors. CoopShares was ideated In response to this challenge, for building \(out\) the broader based services required in the fast growing social and individual sovereignty based Commons ecosphere now enabled by recent evolution of Commons principles. Besides funding its own growth via crowdfunded equity solutions and offering investors funding options via CoopShares, Coopshares will be a platform of services for CoopShares social equity funding and trading.
@@ -66,13 +50,9 @@ This app allow people to signup into the ecosystem and manage her/his own data. 
 
 | Code | Production Installation | Test Installation |
 | :--- | :--- | :--- |
-| WIP | WIP | WIP |
+| [Github](https://github.com/ivanminutillo/varnelli) | WIP | WIP |
 
-## Planning App
 
-| Code | Production Installation | Test Installation |
-| :--- | :--- | :--- |
-| WIP \( now working on previous ocp \) | WIP | WIP |
 
 ## Exchange App
 
@@ -84,5 +64,7 @@ This app allow people to signup into the ecosystem and manage her/his own data. 
 
 | Code | Production Installation | Test Installation |
 | :--- | :--- | :--- |
-| [Github](https://github.com/opencooperativeecosystem/component-library) | WIP | WIP |
+| [Github](https://github.com/opencooperativeecosystem/component-library) | [kit.opencoopecosystem.net](https://kit.opencoopecosystem.net) | WIP |
+
+
 
