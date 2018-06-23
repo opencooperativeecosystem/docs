@@ -8,8 +8,8 @@
 * [History](introduction/history.md)
 * [Workflow](introduction/workflow.md)
 * [Vision](introduction/vision.md)
-* [Roadmap](introduction/roadmap/README.md)
-  * [Current Status](introduction/roadmap/current-status.md)
+* [Current Status](introduction/current-status.md)
+* [Roadmap](introduction/roadmap.md)
 
 ## Apps ecosystem
 
