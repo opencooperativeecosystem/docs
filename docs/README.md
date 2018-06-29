@@ -23,7 +23,7 @@ Inside an Open Cooperative Ecosystem any kind of events can be represented:
 * _distributing income according to contributions using "value equation" decided by contributors_
 * _accounting views for a network, organization, project, individual_
 
-The main point of an Open Cooperative Ecosystem is that _**everything is connected to everything else**_, thanks to its underlying syntax model: [**REA**](https://github.com/opencooperativeecosystem/website/tree/bd8b2402f315f37cd3fd434075da9ddd8d3f7190/Concepts/rea.md)
+The main point of an Open Cooperative Ecosystem is that _**everything is connected to everything else**_, thanks to its underlying syntax model: [**REA**](glossary/rea.md)
 
 It can handle any economic relationships, value networks, distribution of value and ecological requirements.
 
@@ -40,15 +40,15 @@ We think that a digital cooperative ecosystem nowadays is critical to spread sel
 
 ## Getting started
 
-You can follow the [instruction](https://github.com/opencooperativeecosystem/website/tree/bd8b2402f315f37cd3fd434075da9ddd8d3f7190/introduction/get-started.md) to create your own instance of the Open cooperative ecosystem, or register to the faircoop one, and join the faircoop network.
+You can follow the [`instruction`](https://github.com/FreedomCoop/valuenetwork/blob/master/docs/install.txt) to create your own instance of the Open cooperative ecosystem, or register to the faircoop one, and join the faircoop network.
 
 ## Documentation
 
-* [Introduction](https://github.com/opencooperativeecosystem/website/tree/bd8b2402f315f37cd3fd434075da9ddd8d3f7190/history.md)
-* [Apps Ecosystem](https://github.com/opencooperativeecosystem/website/tree/bd8b2402f315f37cd3fd434075da9ddd8d3f7190/apps-ecosystem.md)
-* [Contribute](https://github.com/opencooperativeecosystem/website/tree/bd8b2402f315f37cd3fd434075da9ddd8d3f7190/contribute.md)
-* [Concepts](https://github.com/opencooperativeecosystem/website/tree/bd8b2402f315f37cd3fd434075da9ddd8d3f7190/concepts.md)
-* [Donations](https://github.com/opencooperativeecosystem/website/tree/bd8b2402f315f37cd3fd434075da9ddd8d3f7190/donations.md)
+* [`Introduction`](introduction/get-started.md)
+* [`Apps Ecosystem`](apps-ecosystem/application-description.md)
+* [`Contribute`](contribute/requirements.md)
+* [`Concepts`](glossary/ocw.md)
+* [`Donations`](contribute/donations.md)
 
 ## Discussions
 
