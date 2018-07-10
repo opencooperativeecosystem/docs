@@ -23,23 +23,7 @@ Inside OCE any kind of events can be represented:
 * _tracking contributions from individual network members of work and resources_
 * _connecting value streams from idea to manufacture to end use and following them back_
 * _distributing income according to contributions using "value equation" decided by contributors_
-* _accounting views for a network, organization, project, individual_
-
-
-
-_**What is OCE currently based on?**_
-
-We have taken an economic model that originated in academia called REA \(Resources-  Events - Agents\), and further developed it for the fair and sustainable economic networks of the future. This continues to inform all of our work.
-
-The main point of an OCE is that _**everything is connected to everything else**_, thanks to its underlying syntax model: [**REA**](glossary/rea.md)
-
-It can handle any economic relationships, value networks, distribution of value and ecological requirements.
-
-![How resource flows inside a network of networks](.gitbook/assets/graph.jpg)
-
-## Getting involved
-
-You can follow the [`instruction`](https://github.com/FreedomCoop/valuenetwork/blob/master/docs/install.txt) to create your own instance of the Open cooperative ecosystem, or register to the faircoop one, and join the faircoop network.
+* _accounting views for a network, organization, project, individual_ 
 
 ## Documentation
 
@@ -48,10 +32,6 @@ You can follow the [`instruction`](https://github.com/FreedomCoop/valuenetwork/b
 * [`Contribute`](contribute/requirements.md)
 * [`Concepts`](glossary/ocw.md)
 * [`Donations`](contribute/donations.md)
-
-## Discussions
-
-Join the [Welcome](https://t.me/ocewelcome) or the [Devs](https://t.me/joinchat/Bdq2d0yDFbjRbE2VPKqgrA) telegram group.
 
 ## Donation
 
