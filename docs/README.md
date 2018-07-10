@@ -1,18 +1,20 @@
-# Read me
+# About OCE
 
-The **Open Cooperative Ecosystem** is an open networked organization that works toward creating and assembling economic and organizational software for use by groups working for systemic change on the ground. Our work is toward a collection of small open­source software applications that interoperate using standard vocabularies and protocols, to provide operational and analytical infrastructure, something similar to an operational system for a community.
+_**What is the Open Cooperative Ecosystem \(OCE\)?**_
 
-Groups seeking change have many difficulties obtaining useful software. Our goal is to have freely­ available, modular, pluggable, and well ­documented applications, that can be assembled to meet a community's needs. This will allow future developers to create new open­ source applications for a group's specific needs or as technology advances, in their choice of languages, and plug them in relatively seamlessly. It will also allow existing software apps to create the linkage to be able to plug into the software ecosystem.
+The **OCE** attempts to be a _**network of inter-connected software and data**_, especially _**for**_ the case of _**cooperative and post-capitalistic environments**_ _**to**_ bundle the current individualistic approaches of people and collectives into one string and _**synergize efforts towards the same goals**_.
 
-We are developers as well as facilitators, activists and users of our own applications. We have a committed core team with strong heterogeneous skill set and collectively many decades of experience. We also have looser circles of developers around the core that work on specific apps as needed. We always work in close collaboration with user groups actively working for change, so that all the work remains grounded in real needs, and immediately useful software is created.
+To create this _**framework of inter-connective and decentralized apps and platforms**_, which are freely available, modular, pluggable and well documented, OCE is using _**common vocabularies or protocols**_ \(currently just „ValueFlows“\) _**to convert data seamlessly and instantly**_ from one instance to the other.
 
-In the past several years, we have worked with several food networks, and [sensorica](http://www.sensorica.co/), an open value network that designs open­source hardware. As of over a year ago, we are focusing primarily on the needs of FairCoop and Bank of the Commons, with secondary work with Mutual Aid Network.
+Future developers will be able to create new open­ source applications for a group's specific needs or as technology advances, in their choice of languages, and plug them in. It will also allow existing software apps to create the linkage into the OCE.
 
-We have taken an economic model that originated in academia called REA \(Resources-  Events - Agents\), and further developed it for the fair and sustainable economic networks of the future. This continues to inform all of our work.
+Nevertheless, as an ecosystem consists of multiple interconnecting components, there is currently not such a thing as an OCE. Thus, it should be considered work in process development where the software components are developed based on real needs.
 
 
 
-Inside an Open Cooperative Ecosystem any kind of events can be represented:
+_**What are the current possibilities with OCE?**_
+
+Inside OCE any kind of events can be represented:
 
 * _flexible networks of networks relationships_
 * _resource management and recipes_
@@ -23,22 +25,19 @@ Inside an Open Cooperative Ecosystem any kind of events can be represented:
 * _distributing income according to contributions using "value equation" decided by contributors_
 * _accounting views for a network, organization, project, individual_
 
-The main point of an Open Cooperative Ecosystem is that _**everything is connected to everything else**_, thanks to its underlying syntax model: [**REA**](glossary/rea.md)
+
+
+_**What is OCE currently based on?**_
+
+We have taken an economic model that originated in academia called REA \(Resources-  Events - Agents\), and further developed it for the fair and sustainable economic networks of the future. This continues to inform all of our work.
+
+The main point of an OCE is that _**everything is connected to everything else**_, thanks to its underlying syntax model: [**REA**](glossary/rea.md)
 
 It can handle any economic relationships, value networks, distribution of value and ecological requirements.
 
 ![How resource flows inside a network of networks](.gitbook/assets/graph.jpg)
 
-We are developing software for transitioning to the next economy. Not this economy, the next economy.The next economy must be driven by human and ecological needs rather than profit. And it will be networked.  
-The Open Apps Cooperative Ecosystem team is an open non­hierarchical group. Our governance is based on open assemblies and consensus decisions.  
-Since our main focus is ecosystem interoperability and interconnections, we welcome any kind of diversity and experiments that can bring values to the ecosystem and can test the boundaries of our protocols and tools.
-
-Our workflow so far includes weekly meetings ­ to update ourself about our on going work ­ and monthly meeting to shape together with the ecosystem our roadmap, plus daily chat to foster collaboration and development.  
-All our work ­ code, documents, articles ­ are released open­source from the beginning.
-
-We think that a digital cooperative ecosystem nowadays is critical to spread self­management activities and help the creation of alternative realities based on cooperation, decentralisation of power and mutualism. We try to embody these values in the way we craft our software and ensure that the protocols and tools we build allows these possibilities.
-
-## Getting started
+## Getting involved
 
 You can follow the [`instruction`](https://github.com/FreedomCoop/valuenetwork/blob/master/docs/install.txt) to create your own instance of the Open cooperative ecosystem, or register to the faircoop one, and join the faircoop network.
 

@@ -1,13 +1,14 @@
 # Table of contents
 
-* [Read me](README.md)
+* [About OCE](README.md)
 
 ## Introduction
 
-* [Get started](introduction/get-started.md)
-* [History](introduction/history.md)
-* [Workflow](introduction/workflow.md)
 * [Vision](introduction/vision.md)
+* [Participants](introduction/participants.md)
+* [Workflow](introduction/workflow.md)
+* [Get involved](introduction/get-started.md)
+* [History](introduction/history.md)
 * [Current Status](introduction/current-status.md)
 * [Roadmap](introduction/roadmap.md)
 
