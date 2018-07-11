@@ -1,5 +1,7 @@
 # Current Status
 
+_Currently, the development of the Agent app has the main priority inside the OCE participants to have a stable and functional working base for the FairCoop community. To do so the Agent App is directly converts economic data from the Open Colaborative Platform \(OCP\) thanks to the common vocabluary "ValueFlows"._
+
 ## Use [Agent](https://agent.fair.coop) to:
 
 * look at your profile, all work done, the groups you belong to and inventory.

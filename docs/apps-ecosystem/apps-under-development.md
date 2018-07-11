@@ -1,9 +1,4 @@
----
-id: app_description
-title: App Description
----
-
-# Application description
+# Apps under development
 
 ## Value Network \(original "OCP"\)
 
