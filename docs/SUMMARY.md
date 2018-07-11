@@ -5,7 +5,6 @@
 ## Introduction
 
 * [About OCE](introduction/about-oce.md)
-* [Vision](introduction/vision.md)
 * [Participants](introduction/participants.md)
 * [History](introduction/history.md)
 
