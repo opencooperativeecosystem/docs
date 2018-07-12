@@ -6,6 +6,7 @@
 
 * [About OCE](introduction/about-oce.md)
 * [Participants](introduction/participants.md)
+* [Vision](introduction/vision.md)
 * [History](introduction/history.md)
 
 ## Development
